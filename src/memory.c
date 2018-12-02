@@ -9,6 +9,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+#include "jansson_private_config.h"
 #include "bosjansson.h"
 #include "jansson_private.h"
 
