@@ -9,6 +9,7 @@
 #define _GNU_SOURCE
 #endif
 
+#include "jansson_private_config.h"
 #include "jansson_private.h"
 
 #include <errno.h>
